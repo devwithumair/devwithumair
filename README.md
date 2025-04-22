@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair Tariq</h1>
-<h3 align="center">A passionate mobile app developer who loves crafting clean, efficient, and beautiful apps with Flutter. I specialize in building modern cross-platform solutions.</h3>
-
-<h2 align="center"> Hi There 
+<h2 align="center"> Hi 
     <img src="https://github.com/devwithumair/devwithumair/blob/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="75" />
 </h2>
 
-<h3> I'm Muhammad Umair Tariq!</h3>
+<h1 align="center">I'm Muhammad Umair Tariq</h1>
 
 <div align="center">
  <img src="https://github.com/devwithumair/devwithumair/blob/main/coding.gif" width="60%" loop=infinite alt="Coding Animation">
 </div>
+
+<h3 align="center">A passionate mobile app developer who loves crafting clean, efficient, and beautiful apps with Flutter. I specialize in building modern cross-platform solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devwithumair&label=Profile%20views&color=0e75b6&style=flat" alt="devwithumair" /> </p>
 
